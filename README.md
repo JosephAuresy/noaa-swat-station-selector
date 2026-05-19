@@ -3,9 +3,11 @@
 > **A Streamlit app for hydrologists and watershed modelers.**  
 > Upload any watershed shapefile → automatically find, filter, and download the best NOAA climate stations → export SWAT+-ready `.pcp` and `.tmp` files in one click.
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
+[![Live App](https://img.shields.io/badge/🚀%20Live%20App-noaa--station--selector.streamlit.app-FF4B4B?logo=streamlit&logoColor=white)](https://noaa-station-selector.streamlit.app/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
+**👉 [Open the live app](https://noaa-station-selector.streamlit.app/) — no installation needed.**
 
 ---
 
