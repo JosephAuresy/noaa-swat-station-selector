@@ -138,7 +138,7 @@ The dashboard version is pre-loaded for the Pecos River basin and does not requi
 If you use this tool in a publication, please cite:
 
 ```
-Auresy, J. (2025). NOAA GHCND Station Selector for SWAT+.
+Serrano Suarez, D. (2025). NOAA GHCND Station Selector for SWAT+.
 GitHub: https://github.com/JosephAuresy/noaa-swat-station-selector
 ```
 
