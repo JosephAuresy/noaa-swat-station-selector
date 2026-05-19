@@ -9,3 +9,4 @@ scipy>=1.12
 requests>=2.31
 shapely>=2.0
 pyproj>=3.6
+pymannkendall>=1.4
